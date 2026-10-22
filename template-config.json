@@ -15,7 +15,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/openemr-railway",
+        "repo": "https://github.com/two-workspaces/openemr",
         "rootDirectory": "/"
       },
       "variables": {
@@ -74,7 +74,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/openemr-railway",
+        "repo": "https://github.com/two-workspaces/openemr",
         "rootDirectory": "/mysql"
       },
       "variables": {

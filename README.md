@@ -21,7 +21,7 @@ This template runs OpenEMR (7.0.4) next to a MySQL 8 service. First boot is full
 ### Deployment Dependencies
 
 - [OpenEMR documentation](https://www.open-emr.org/wiki/)
-- [Template source on GitHub](https://github.com/nomideusz/openemr-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/openemr)
 
 ### Implementation Details
 
